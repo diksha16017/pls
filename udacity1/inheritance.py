@@ -26,5 +26,5 @@ papa.show_info()
 dia = Child("garg","black",6)
 dia.show_info()
 
-#print(dia.last_name)
-#print(dia.toys)
+print(dia.last_name)
+print(dia.toys)
