@@ -6,3 +6,11 @@ for item in list1:
         dup.append(item)
 print(len(dup))
 print(dup)
+
+set1 = set(list1)
+print (len(set1))
+print(set1)
+
+print ("ria" in set1)
+print ("jia" not in set1)
+print ("jia" in set1)
